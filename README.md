@@ -1,6 +1,6 @@
 ### Cadastro de Vagas de Emprego
 
-Programa simples em JavaScript para gerenciar vagas de emprego e candidatos
+Programa simples escrito em JavaScript para gerenciar vagas de emprego e candidatos
 
 #### Objetivo
 Treinar conhecimentos básicos em JavaScript
