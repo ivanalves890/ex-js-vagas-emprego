@@ -14,4 +14,3 @@ Treinar conhecimentos básicos em JavaScript
 - Visualizar uma vaga cadastrada
 - Inscrever um candidato em uma vaga cadastrada
 - Excluir uma vaga cadastrada
-
